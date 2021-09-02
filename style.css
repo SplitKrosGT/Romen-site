@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+    background: url(./images/tmb_234615_311989.jpg);
+    background-size: 100%, 100%;
+}
+header {
+    display: block;
+    width: 100%;
+    height: 150px;
+    display: inline-block;
+    background: url(./images/header.png);
+    background-size:cover
+}
+.Header {
+    display: inline-block;
+}
+.lincs {
+    width: 120px;
+    font-size: 25px;
+    padding: 10px;
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.button {
+    margin-left: 1300px;
+    margin-top: -100px;
+    display: inline-block;
+    padding: 10px;
+}
+.vk {
+    margin-top: -120px;
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    background: url(./images/vk.png);
+    background-repeat: no-repeat;
+    background-size: 35px;
+    cursor: pointer;   
+}
+.discord {
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    background: url(./images/дискорд.png);
+    background-repeat: no-repeat;
+    background-size: 35px;
+    cursor: pointer;
+}
+.steam {
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    background: url(./images/стим.png);
+    background-repeat: no-repeat;
+    background-size: 35px;
+    cursor: pointer;
+}
+.Maps {
+    font-size: 30px;
+    padding: 10px;
+    color: red;
+    font-weight: bold; 
+    text-shadow: 2px 2px 2px #000;   
+}
+.page1 {
+    display: inline-block;
+}
+.page2 {
+    display: inline-block;
+}
+.page3 {
+    display: inline-block;
+}
+.page4 {
+    display: inline-block;
+}
+.name {
+    font-size: 30px;
+    padding-right: 100px;
+    color: red;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #000;
+}
+.save {
+    margin-top: -40px;
+    margin-left: 220px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: url(./images/загрузить.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.servers {
+    font-size: 30px;
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #000;
+}
